@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,StockQuantity,UnitPrice
+P1,Notebook,Office,145,15.0
+P4,Backpack,Bags,15,80.0
+P2,Pen,Office,197,5.0
+P5,Bottle,Accessories,30,25.0
+P3,Mug,Accessories,40,20.0

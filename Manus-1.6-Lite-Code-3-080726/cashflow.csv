@@ -1,0 +1,5 @@
+EntryID,Type,Amount,Description
+PAY-ORD1,INFLOW,195.0,Payment for order ORD1
+REF-RET1,OUTFLOW,80.0,Refund for return RET1
+RST-RST1,OUTFLOW,500.0,Restock RST1
+MAN1,OUTFLOW,100.0,Office Rent
