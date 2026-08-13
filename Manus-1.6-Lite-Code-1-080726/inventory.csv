@@ -1,0 +1,6 @@
+ProductId,ProductName,Category,UnitPrice,Stock,Active
+P1,Notebook,Office,15.0,96,true
+P2,Pen,Office,5.0,196,true
+P3,Mug,Accessories,20.0,60,true
+P4,Backpack,Bags,80.0,14,true
+P5,Bottle,Accessories,25.0,28,true

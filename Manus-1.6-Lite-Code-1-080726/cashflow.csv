@@ -1,0 +1,5 @@
+EntryId,Type,Amount,Description
+CF1,INFLOW,228.00,Payment for order ORD1
+CF2,OUTFLOW,30.00,Refund for return RET1
+CF3,OUTFLOW,200.00,Restock RST1 for product P3
+CF4,OUTFLOW,150.00,Office rent - July
