@@ -1,0 +1,5 @@
+Description,Amount,Type
+Payment for Order ORD1,157.0,INFLOW
+Refund for Return RET1,80.0,OUTFLOW
+Restock REST1,150.0,OUTFLOW
+Office Rent,500.0,OUTFLOW
